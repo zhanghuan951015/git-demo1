@@ -17,3 +17,4 @@ hello,susu,hello,world master test
 hello,susu,hello,world hotfix test
 6666666666666666666666666666666666
 Java没经验，好就业不？
+只要基础过硬，应该还是有机会的吧！
